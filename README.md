@@ -8,8 +8,11 @@
 
 ### **Solution for ill people:** 
 ### Art activites may be a solution for those who suffer from depression and that can be a treatment method.
+
 ### **Increasing respect for artists:** 
+
 ### In todays world, artists don't get their well-deserved respect. With the result of this project people will understand how they shape the society.
+
 ### **Personal curiosity:** 
 ### Since I am also interested in music, I wonder if it's really beneficial for human health so that I may have more information about my hobby and understand it's importance.
 
