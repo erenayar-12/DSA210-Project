@@ -22,5 +22,10 @@
 ## Method
 
 #### I will collect the health data through WHO, Türkiye Ministry of Health and TÜİK. For the participation data, I will analyze the TÜİK data of cultural activities
-#### When data are collected, I will analyze them via Pandas and Numpy. Then I will illustrate them using Matplotlib. After that, I will calculate correlation coefficients for events and mental health. I will mostly deal with means and medians, but I will also use Pearson Coefficients for hypothesis testing. According to the results and visualizations, I hope to find a positive correlation between mental well-being and participation.
+#### When data are collected, I will analyze them via Pandas. Then I will illustrate them using Matplotlib. After that, I will calculate correlation coefficients for events and mental health. I will mostly deal Pearson Coefficients for hypothesis testing by using stats. According to the results and visualizations, I hope to find a positive correlation between mental well-being and participation.
+
+## About Step 2 of the Project
+
+#### I wrote all my code using Google Colab and my data set in Google Drive. I found 4 data sets in TÜİK: Number of suicides in years, theatra attendance in years, cinema attendance in years and opera attendance in years. Since there are lots of irrelevant data in them (like suicides in each region or capacity of cinema halls), I prufied the data and organized them in one CSV file.
+
 
