@@ -26,6 +26,8 @@
 
 ## About Step 2 of the Project
 
-#### I wrote all my code using Google Colab and my data set in Google Drive. I found 5 data sets in TÜİK: Population in Türkiye across years, number of suicides in years, theatra attendance in years, cinema attendance in years and opera attendance in years. Since there are lots of irrelevant data in them (like suicides in each region or capacity of cinema halls), I prufied the data and organized them in one CSV file. Also since there are no censuses between years 2000 - 2006 there are null data which means we can not calculate the suicide rates and can not use the data on those years.
+#### I wrote all my code using Google Colab and my data set in Google Drive. I found 5 data sets in TÜİK: Population in Türkiye across years, number of suicides in years, theatra attendance in years, cinema attendance in years and opera attendance in years. Since there are lots of irrelevant data in them (like suicides in each region or capacity of cinema halls), I prufied the data and organized them in one CSV file. Also since there are no censuses between years 2000 - 2006 there are null data which means we can not calculate the suicide rates and can not use the data on those years. In order to be able to use those years, I runned a linear interpolation to fill those years with approximate data according to 2000 and 2007.
+
+#### When we look at the graphs, it is clear that there are anomallies in years 2020 and 2021 due to COVID. So, I negelected them and calculated correlation coefficients according to other years.
 
 
