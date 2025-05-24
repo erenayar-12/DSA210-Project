@@ -26,6 +26,6 @@
 
 ## About Step 2 of the Project
 
-#### I wrote all my code using Google Colab and my data set in Google Drive. I found 4 data sets in TÜİK: Number of suicides in years, theatra attendance in years, cinema attendance in years and opera attendance in years. Since there are lots of irrelevant data in them (like suicides in each region or capacity of cinema halls), I prufied the data and organized them in one CSV file.
+#### I wrote all my code using Google Colab and my data set in Google Drive. I found 5 data sets in TÜİK: Population in Türkiye across years, number of suicides in years, theatra attendance in years, cinema attendance in years and opera attendance in years. Since there are lots of irrelevant data in them (like suicides in each region or capacity of cinema halls), I prufied the data and organized them in one CSV file. Also since there are no censuses between years 2000 - 2006 there are null data which means we can not calculate the suicide rates and can not use the data on those years.
 
 
