@@ -32,9 +32,10 @@
 
 ## Machine Learning
 
-#### I performed Grid search tuning on Random Forest, Neural Network, and Decision Tree models. Neural Network did not converge even after increasing iterations. I also tried KNN and SVM regression but the best R2 value was Decision Tree Regression's. 
+#### I performed Grid search tuning on Random Forest, Neural Network, and Decision Tree models. Neural Network did not converge even after increasing iterations. I also tried KNN and SVM regression. Since all regression methods fail to meet R2 expectation, I reframed the problem  as a classification task. Instead of predicting the exact suicide rate, I converted the continuous variable into a binary label based on whether the suicide rate was above or below the median. That way, I could work with a better ML approach to my limited dataset. 
 
-#### Decision Tree Regression performs relatively better than other methods given the small and limited dataset as this project has.
+#### Naive Bayes has the best accuracy among other ML methods.
+
 
 
 
