@@ -30,4 +30,11 @@
 
 #### When we look at the graphs, it is clear that there are anomallies in years 2020 and 2021 due to COVID. So, I negelected them and calculated correlation coefficients according to other years.
 
+## Machine Learning
+
+#### I performed Grid search tuning on Random Forest, Neural Network, and Decision Tree models. Neural Network did not converge even after increasing iterations. I also tried KNN and SVM regression but the best R2 value was Decision Tree Regression's. 
+
+#### Decision Tree Regression performs relatively better than other methods given the small and limited dataset as this project has.
+
+
 
