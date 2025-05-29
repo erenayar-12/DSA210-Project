@@ -32,7 +32,7 @@
 
 ## Machine Learning
 
-#### I performed Grid search tuning on Random Forest, Neural Network, and Decision Tree models. Neural Network did not converge even after increasing iterations. I also tried KNN and SVM regression. Since all regression methods fail to meet R2 expectation, I reframed the problem  as a classification task. Instead of predicting the exact suicide rate, I converted the continuous variable into a binary label based on whether the suicide rate was above or below the median. That way, I could work with a better ML approach to my limited dataset. 
+#### For the ML part, I used Scikit-learn Machine Learning Library. I performed Grid search tuning on Random Forest, Neural Network, and Decision Tree models. Neural Network did not converge even after increasing iterations. I also tried KNN and SVM regression. Since all regression methods fail to meet R2 expectation, I reframed the problem  as a classification task. Instead of predicting the exact suicide rate, I converted the continuous variable into a binary label based on whether the suicide rate was above or below the median. That way, I could work with a better ML approach to my limited dataset. 
 
 #### Naive Bayes has the best accuracy among other ML methods. I picked this method and worked with it. However, due to small dataset, overfitting occured.
 
